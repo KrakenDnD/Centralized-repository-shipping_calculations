@@ -1,3 +1,5 @@
+# Here is a new update by KrakenDnd
+# Here is a new update by yourusername
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
