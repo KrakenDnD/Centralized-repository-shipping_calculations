@@ -1,5 +1,3 @@
-# Here is a new update by KrakenDnD
-# Here is a new update by KrakenDnd
 # Here is a new update by KrakenDnd
 # Here is a new update by yourusername
 # Shipping Cost Calculator
